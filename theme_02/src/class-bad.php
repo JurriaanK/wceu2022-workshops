@@ -1,19 +1,19 @@
 <?php
 /**
- * File docs
+ * File docs.
  *
  * @package theme
  */
 
 /**
- * Undocumented class
+ * Undocumented class.
  */
 class Bad {
 	/**
-	 * Undocumented function
+	 * Undocumented function.
 	 *
 	 * @param int $a First var.
-	 * @param int $b Second var
+	 * @param int $b Second var.
 	 * @return int
 	 */
 	public function calc( $a = '1', $b = 15 ) {
